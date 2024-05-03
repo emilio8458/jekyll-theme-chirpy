@@ -14,22 +14,22 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Emil # the main title
+title: Emil Vöhringer # the main title
 
-tagline: moin meine aktiven freunde # it will display as the sub-title
+tagline: Tech Enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Emil
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://emilvoehringer.de"
 
 github:
   username: Emilio8458 # change to your github username
 
 twitter:
-  username: EmilvXlR # change to your twitter username
+  username: Emil8455 # change to your twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: emilvxlr@posteo.de # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/emilvxlr # change to your twitter homepage
+    - https://twitter.com/emil8455 # change to your twitter homepage
     - https://github.com/emilio8458 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -84,7 +84,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode:  [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
